@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Open_Sans;
+  scr: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: Lobster;
+  scr: url("../fonts/Lobster/Lobster-Regular.ttf");
+}
+
+@font-face {
+  font-family: Girassol;
+  scr: url("../fonts/Girassol/Girassol-Regular.ttf");
+}
+
+@font-face {
+  font-family: Bree_Serif;
+  scr: url("../fonts/Bree_Serif/BreeSerif-Regular.ttf");
+}
+
+@font-face {
+  font-family: Libre_Baskerville;
+  scr: url("../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf");
+}
